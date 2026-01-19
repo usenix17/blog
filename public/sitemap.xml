@@ -3,10 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/alchemy/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/consciousness/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/imagination/from-intuition-to-action/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jung/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tarot/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tarot/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/imagination/holding-the-dance/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/imagination/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/dreams/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
@@ -14,19 +44,7 @@
     <loc>http://localhost:1313/tags/dreams/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/jung/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/prima-materia/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/dreams/lead-pipes/</loc>
@@ -63,9 +81,6 @@
     <lastmod>2025-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/imagination/</loc>
-    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/imagination/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/inner-child/</loc>
@@ -152,23 +167,14 @@
     <loc>http://localhost:1313/posts/dreams/the-initiation/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/consciousness/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/imagination/withdrawal-to-transformation/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/imagination/holding-the-dance/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/individuation/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kashmir-shaivism/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/psychological-inquiry/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tarot/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tarot/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/transformation/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
     <priority>0.1</priority>
