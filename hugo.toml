@@ -12,7 +12,7 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 	mainSections = 'posts'
 
 [author]
-	name = 'Sasha Karcz'
+	name = ''
 	bio = 'Time traveler that is stuck in the present. Freemason and Alchemist. Interested in mathematics, physics, open source, antique telephones, Jung, and mysticism.'
 	avatar = '/images/avatar.jpg'
 
