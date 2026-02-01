@@ -21,7 +21,7 @@ Last night I dreamed of adopting a daughter—a profoundly moving experience tha
 
 I adopted a girl. The setting was my childhood home, though it appeared run down and in need of repair—I was working to fix it. Several children were present, and we went out into the cul-de-sac to play together.
 
-The girl I had adopted resembled the woman from an earlier dream—the ghost caretaker who helped me tend the spirits in a haunted house. As I held this child, I felt an overwhelming sense of completeness and fullness. Time passed in the dream, and she grew into adulthood while I continued to embrace her. I felt her warmth, her love. The connection was profound and entirely fulfilling, though not sexual in nature—it was something deeper, more fundamental.
+The girl I had adopted resembled the woman from an earlier dream—the [ghost caretaker](https://blog.starnix.net/posts/dreams/the-ghost-lady/) who helped me tend the spirits in a haunted house. As I held this child, I felt an overwhelming sense of completeness and fullness. Time passed in the dream, and she grew into adulthood while I continued to embrace her. I felt her warmth, her love. The connection was profound and entirely fulfilling, though not sexual in nature—it was something deeper, more fundamental.
 
 ## The Psychological Landscape
 
