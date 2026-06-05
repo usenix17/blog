@@ -1,6 +1,6 @@
 ---
 title: "The Substance (2024)"
-date: 2025-03-16
+date: 2026-06-05
 slug: /the_substance/
 description: "An exploration of Coralie Fargeat's The Substance through the lens of Jungian psychology and alchemical symbolism."
 image: images/substance.jpg
