@@ -18,7 +18,7 @@ draft: false
 
 # **The Substance (2024): A Jungian and Alchemical Interpretation**
 
-Coralie Fargeat's *The Substance* (2024) is a brutal, uncompromising horror film that operates almost entirely in archetypal and symbolic space. On its surface, it tells the story of aging celebrity Elisabeth Sparkle, who uses a mysterious black-market substance to generate a younger, "better" version of herself named Sue. But beneath the body horror and Hollywood satire lies a profound meditation on the refused work of individuation—a cinematic shadow text to films like *The Fountain*. Where Aronofsky's protagonist learns to surrender to the cycle of transformation, Fargeat's Elisabeth violently refuses it. The result is one of the most psychologically and alchemically rich horror films of recent years.
+Coralie Fargeat's *The Substance* (2024) is a brutal, uncompromising horror film that operates almost entirely in archetypal and symbolic space. On its surface, it tells the story of aging celebrity Elisabeth Sparkle, who uses a mysterious black-market substance to generate a younger, "better" version of herself named Sue. But beneath the body horror and Hollywood satire lies a profound meditation on the refused work of individuation—a cinematic shadow text to films like *[The Fountain](../the_fountain)*. Where Aronofsky's protagonist learns to surrender to the cycle of transformation, Fargeat's Elisabeth violently refuses it. The result is one of the most psychologically and alchemically rich horror films of recent years.
 
 Through a Jungian and alchemical lens, *The Substance* reveals itself as a cautionary tale about what happens when the natural process of individuation is refused—when we attempt to bypass integration and split off the parts of ourselves we cannot accept.
 
@@ -189,9 +189,11 @@ Where *The Fountain* uses the ouroboros as a symbol of eternal renewal—the sna
 
 > This is the shadow ouroboros: the closed loop that produces only diminishment, the self-consumption that yields nothing. It is what happens when the cyclical nature of life is forced into a closed system that refuses death and therefore refuses rebirth.
 
+Fargeat's depiction of this shadow ouroboros does not exist in a vacuum; rather, *The Substance* finds an unexpected companion in Herk Harvey's *[Carnival of Souls](../carnival-of-souls/)* (1962).
+
 ## Sister Films of Refused Integration
 
-*The Substance* finds an unexpected companion in Herk Harvey's *[Carnival of Souls](/carnival-of-souls/)* (1962). Both films portray women destroyed by refused integration with the unconscious, though they approach the same teaching from different angles.
+Both films portray women destroyed by refused integration with the unconscious, though they approach the same teaching from different angles.
 
 Mary Henry refuses the unconscious itself—the ghouls, the carnival, the man in black. Hers is the refusal of depth, the denial that there are realms beyond rational waking consciousness. Elisabeth refuses the body itself—aging, mortality, the natural cycle. Hers is the refusal of incarnation, the denial that the body must change and decay.
 
